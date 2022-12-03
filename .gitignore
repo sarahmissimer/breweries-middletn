@@ -11,8 +11,8 @@ data/
 Data/
 
 #keys
-key/
-Key/
+keys/
+Keys/
 
 # Distribution / packaging
 .Python
